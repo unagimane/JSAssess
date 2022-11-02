@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(28, 116, 112);
+}
+
+.box {
+    height: fit-content;
+    width: fit-content;
+    border: solid 3px aquamarine;
+    background-color: rgb(180, 204, 180);
+    border-radius: 20px;
+    text-align: center;
+    padding: 200px;
+    margin-top: 20px;
+    margin-right: auto;
+    margin-left: auto;
+}
